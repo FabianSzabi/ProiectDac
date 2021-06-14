@@ -1,4 +1,4 @@
-# ProjectHospital
+# Project Birthday Reminder
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
@@ -20,6 +20,8 @@ download Docker to your Pc https://docs.docker.com/docker-for-windows/install/
 Go to the auth-api folder
 use 'docker-compose up'
 it will build the back-end!
+You can check back-end page on localhost:3000
+You can see tutorial video https://www.youtube.com/watch?v=brb4SO-dO_k&t=220s 1:30
 
 
 ## Running unit tests
